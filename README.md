@@ -2,6 +2,8 @@
 I started coding using C++ because Im familiar with it, then I went to python tutorials to convert the code to python.
 
 the following is my c++ code:
+
+
 #include <iostream>
 
 using namespace std;
